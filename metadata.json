@@ -1,0 +1,6 @@
+{
+  "name": "Rumiland Academy",
+  "description": "Professional and beautiful app for learning Python in 20 lessons with interactive quizzes, bookmarks, streak tracker and achievements badge awards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
